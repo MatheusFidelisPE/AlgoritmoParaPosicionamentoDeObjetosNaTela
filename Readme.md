@@ -1,5 +1,9 @@
 
-##Construção mapa
+#Construção mapa.
+
+
+#author: Matheus Fidelis da Silva
+
 Para posicionamento dos objetos no mapa criei um programa capaz de posicionar os objetos no mapa com o uso das setas e usando a tecla enter.
 
 
